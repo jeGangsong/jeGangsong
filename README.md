@@ -8,6 +8,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="61" height="61" /></div>
+<div style="align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="61" height="61" /></div>
+<div style="align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="61" height="61" /></div>
+
 
 <!--
 **jeGangsong/jeGangsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
