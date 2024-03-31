@@ -31,6 +31,8 @@
   <br>
 </div>
 
+<img src="https://github.com/jeGangSong/jeGangSong/blob/output/github-snake-dark.svg" width="100%">
+
 <!--
 **jeGangsong/jeGangsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
