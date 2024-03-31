@@ -3,7 +3,7 @@
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 
-![Header](./[Your header image])
+![Header](./github-header-image.png)
 
 
 <!--
