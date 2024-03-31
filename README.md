@@ -1,9 +1,10 @@
-### Hi there 👋
+### WELCOME MY GIT!! 👋
 ![Header](./github-header-image.png)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeGangSong&layout=compact)
+![Overview](https://raw.githubusercontent.com/jeGangsong/github-stats-transparent/output/generated/overview.svg)
+![Top_Langs](https://raw.githubusercontent.com/jeGangsong/github-stats-transparent/output/generated/languages.svg)
 
-<h1>Tech Stack</h1>
+<h1>🖥Tech Stack🖥</h1>
 <div align=center>
   <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C_Language-A8B9CC?style=plastic&logo=c&logoColor=white">
@@ -31,6 +32,13 @@
   <br>
 </div>
 
+<h1>🥈Coding Study</h1>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=embegod)](https://solved.ac/embegod)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rudvna56)](https://solved.ac/rudvna56)
+<br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=embegod)](https://solved.ac/embegod)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudvna56)](https://solved.ac/rudvna56)
 <img src="https://github.com/jeGangSong/jeGangSong/blob/output/github-snake-dark.svg" width="100%">
 
 <!--
